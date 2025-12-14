@@ -8,4 +8,6 @@ vim.opt.shiftwidth = 4
 vim.opt.clipboard = "unnamedplus"
 vim.opt.swapfile  = false
 -- vim.cmd.colorscheme = "catppuccin-macchiato"
+vim.opt.termguicolors = true
+
 
